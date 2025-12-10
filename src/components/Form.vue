@@ -26,6 +26,8 @@ form {
 textarea {
   field-sizing: content;
   width: 100% !important;
+
+  font-size: var(--size-step-0);
   min-height: 4lh;
   border-radius: 0.5em;
 }

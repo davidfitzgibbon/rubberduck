@@ -124,6 +124,7 @@ const addResult = (result) => {
 body {
   font-weight: 400;
   font-style: normal;
+  font-size: var(--size-step-0);
   line-height: 1.5;
   padding: 1rem;
   background: var(--color-white);
