@@ -1,0 +1,18 @@
+export default [
+  'Flying south for winter',
+  'Flying north for summer',
+  'Preening feathers',
+  'Shaking tail feather',
+  'Going quackers',
+  'Diving for fish',
+  'Error: ***101*** user error',
+  'Swimming in coins',
+  'Awaiting the moon in the Eighth House of Aquarius',
+  'Escaping pigs',
+  'Dry cleaning sailor outfit',
+  'Waiting for bread delivery',
+  'Quacking with enthusiasm',
+  'Turning into a swan',
+  'Keeping in line behind mother duck',
+  'Showing butt above the water',
+]
